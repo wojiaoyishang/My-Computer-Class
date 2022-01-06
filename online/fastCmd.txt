@@ -1,0 +1,6 @@
+关机|一键关闭小伙伴的电脑|C:\Windows\System32\shutdown.exe|-p
+重启|一键重启小伙伴的电脑|C:\Windows\System32\shutdown.exe|-r -t 0
+注销|一键注销小伙伴的账户|C:\Windows\System32\cmd.exe|-c logoff
+发送msg命令|发送msg给小伙伴，开启msg访问才会显示|C:\Windows\System32\cmd.exe|-c msg * "I love you"
+Python:获取Python路径|如果配置好了Python的环境，可以尝试更多好玩的功能|**script**python -c print(__import__('sys').executable)|**clear**
+Python:不停发出提示音|需要用到Python，不停发出提示音||-c "while True:print('\a')"
