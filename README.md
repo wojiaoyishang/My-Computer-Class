@@ -10,6 +10,15 @@ My Computer Class 不同于原作幻灭极域采用了多个模块，这次 My C
 
 谢明：其中极域UDP模拟控制参考：https://gitee.com/wei-jian-xian/Jiyu_udp_attack，并改进了短时间内不能重发BUG。
 
+#### 更新日志
+
+2022-1-7 3.4.0 Dev
+
+[@] 修改了UDP控制更加方便
+
+[+] 检查更新
+
+{^} 后面会增加Python脚本支持
 
 #### 安装教程
 
